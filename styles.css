@@ -25,6 +25,10 @@
     display: inline-block;
 }
 
+#rocket {
+    position:absolute;
+}
+
 .centered {
     text-align: center;
 }
